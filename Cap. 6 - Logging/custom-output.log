@@ -1,0 +1,11 @@
+2021-05-15 17:52:05,989: INFO: main
+2021-05-15 17:52:05,990: WARNING: main
+2021-05-15 17:53:36,891: INFO: main
+2021-05-15 17:53:36,891: WARNING: main
+2021-05-15 17:53:36,891: INFO: outra_funcao
+2021-05-15 17:55:00,944: INFO: main
+2021-05-15 17:55:00,944: WARNING: main
+2021-05-15 17:55:00,944: INFO: outra_funcao
+2021-05-15 17:55:32,854: INFO: main: Pessoa: dieg
+2021-05-15 17:55:32,855: WARNING: main: Pessoa: dieg
+2021-05-15 17:55:32,855: INFO: outra_funcao: Pessoa: dieg
